@@ -1,2 +1,2 @@
-# ProjetoDJW-OO
-Projeto para a matéria de DJW com o intuito de testar os conhecimentos sobre orientação ao objeto
+# exemploBolasQuicando
+Exemplo de orientação a objeto no Javascript
