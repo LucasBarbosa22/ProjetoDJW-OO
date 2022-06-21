@@ -1,5 +1,5 @@
 canvas {
-  margin-top: 50px;
+  margin-top: 68px;
 }
 
 html {
@@ -19,18 +19,19 @@ body {
 h1 {
   font-size: 33px;
   letter-spacing: 1px;
-  margin-top: -20px;
+  margin-top: -15px;
   color:rgb(0, 0, 0);
 }
 
 h2 {
   font-size: 23px;
-  margin-top: 18px;
+  margin-top: 65px;
   color:rgb(0, 0, 0);
 }
 
 h4 {
   font-size: 15px;
-  margin-top: 77px;
+  margin-top: 90px;
+  letter-spacing: 1px;
   color:rgb(0, 0, 0);
 }
